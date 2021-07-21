@@ -1,0 +1,24 @@
+#myProject/settings.py
+
+...
+
+DATABASES = {
+
+    'default': {
+
+        'ENGINE': 'django.db.backends.postgresql',
+
+        'NAME': ‘<db_name>’,
+
+        'USER': '<db_username>',
+
+        'PASSWORD': '<password>',
+
+        'HOST': '<db_host>',
+
+        'PORT': '<db_port>',
+
+    }
+
+}
+
