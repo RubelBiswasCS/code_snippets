@@ -1,0 +1,64 @@
+
+@media only screen and (min-width:1201px){
+    /* #about{
+        background: rgb(23, 196, 124);
+    } */
+   }
+}
+@media only screen and (min-width:1025px) and (max-width:1200px){
+    /* #about{
+        background: rgb(197, 175, 177);
+    } */
+    
+}
+@media only screen and (min-width:901px) and (max-width:1024px){
+    /* #about{
+        background: rgb(173, 24, 36);
+    } */
+   
+}
+@media only screen and (min-width:769px) and (max-width:900px){
+    
+    
+}
+@media only screen and (min-width:601px) and (max-width:768px){
+    
+}
+@media only screen and (min-width:481px) and (max-width:600px){
+  
+}
+
+@media only screen and (min-width:376px) and (max-width:480px){
+    
+}
+@media only screen and (min-width:361px) and (max-width:375px){
+    /* #about{
+        background: rgb(241, 30, 118);
+    } */
+}
+@media only screen and (min-width:321px) and (max-width:360px){
+    /* #about{
+        background: rgb(11, 127, 131);
+    } */
+}
+
+@media only screen and (max-width:320px){
+    /* #about{
+        background: cadetblue;
+    } */
+}
+
+/* end snippet */
+
+
+
+
+
+/* 320 cheap phones,360 normal mobile,375 iphone */
+/* 320px
+480px
+600px
+768px
+900px
+1024px
+1200px */
