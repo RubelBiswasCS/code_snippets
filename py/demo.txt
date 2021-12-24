@@ -1,0 +1,3 @@
+{'\ufeffAtomic Number': '92', 'Name': 'Uranium', 'Atomic weight': '238.029', 'Symbol': 'U', 'Melting Point (°C)': '1,132', 'Boiling Point (°C)': '3,818', 'Discovery(Year)': '1789', 'Group*': '102', 'Electron configuration': '[Rn] 5f3\xa06d1\xa07s2'}
+{'\ufeffAtomic Number': '93', 'Name': 'Neptunium', 'Atomic weight': '237.000', 'Symbol': 'Np', 'Melting Point (°C)': '640', 'Boiling Point (°C)': '3,902', 'Discovery(Year)': '1940', 'Group*': '102', 'Electron configuration': '[Rn] 5f4\xa06d1\xa07s2'}
+{'\ufeffAtomic Number': '94', 'Name': 'Plutonium', 'Atomic weight': '244.000', 'Symbol': 'Pu', 'Melting Point (°C)': '640', 'Boiling Point (°C)': '3,235', 'Discovery(Year)': '1940', 'Group*': '102', 'Electron configuration': '[Rn] 5f6\xa07s2'}
